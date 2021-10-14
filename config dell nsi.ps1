@@ -41,7 +41,8 @@ Site : https://meet.jit.si/
 
 
 liens :
-pronote
+pronote : https://0660057d.index-education.net/pronote/
+site lycee : https://lyc-coubertin-fontromeu.ac-montpellier.fr/
 pinterest
 
 
