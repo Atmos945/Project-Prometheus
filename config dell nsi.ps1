@@ -11,6 +11,7 @@ winget install GIMP.GIMP
 winget install Microsoft.PowerToys
 winget install ModernFlyouts.ModernFlyouts
 winget install Zoom.Zoom
+winget install 9WZDNCRFHWQT    # Drawboard PDF
 
 
 Write-Host "
@@ -47,4 +48,5 @@ pinterest
 desac onedrive
 google moteur par défaut + config navigateurs
 sandbox et guardian
+config : désac parm jeux
 "
